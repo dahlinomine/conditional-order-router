@@ -1,0 +1,10 @@
+{
+  "name": "conditional-order-router",
+  "version": "0.1.0",
+  "description": "Logic for executing trades based on external oracle conditions",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
